@@ -1,0 +1,4 @@
+.bg-custom-image{
+   @apply bg-cover bg-center bg-no-repeat;
+   
+}
